@@ -1,5 +1,4 @@
 import random
-import telnetlib as tel
 
 bgcol = [0,0,0]
 drops = []
